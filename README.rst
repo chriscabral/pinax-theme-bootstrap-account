@@ -7,7 +7,7 @@ A theme for Pinax 0.9 based on Twitter's open source Bootstrap framework.
 Quick Start
 -----------
 
-This templates extend https://github.com/pinax/pinax-theme-bootstrap, and can be used
+This templates extends https://github.com/pinax/pinax-theme-bootstrap, and can be used
 in conjuction with https://github.com/pinax/django-user-accounts.
 
 To have this package working you need:
